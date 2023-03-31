@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>NB</item>
+        <item>HARDEN</item>
+        <item>LEBRON JAMES</item>
+        <item>TRIPLE</item>
+        <item>ENTRADA</item>
+        <item>PLAY OFF</item>
+        <item>GOLDEN STATE</item>
+        <item>JORDAN</item>
+        <item>NIKE</item>
+    </string-array>
+</resources>
